@@ -1,4 +1,4 @@
-My name is Andrew. I'm mostly here for Kali tools.
+My name is Andrew. I enjoy talking about Linux and Network Security. 
 
 <!---
 andrewy656/andrewy656 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
