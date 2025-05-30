@@ -1,4 +1,4 @@
-My name is Andrew. I enjoy talking about Linux and Network Security. 
+My name is Andrew. I enjoy pentesting and creating devices that help with pentesting and bolstering network security.
 
 <!---
 andrewy656/andrewy656 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
