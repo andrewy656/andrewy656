@@ -2,7 +2,7 @@
 
 ###
 
-<h5 align="left">Securing networks by day<br><br>Finding ways to break into my own networks by night<br><br>--------------------------------------------------------<br><br>I try to help out with open source projects when I have the time<br><br>I like to create devices that can assist me in pentesting as well as monitoring a network</h5>
+<h5 align="left">Securing networks by day<br><br>Finding ways to break into my own networks by night<br><br>--------------------------------------------------------<br><br>I try to help out with open source projects when I have the time<br><br>I like to create devices that can assist me in pentesting as well as monitoring networks</h5>
 
 ###
 
